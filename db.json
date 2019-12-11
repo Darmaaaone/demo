@@ -1,0 +1,21 @@
+{
+    "availableSeat": [
+        {
+            "seatNumber": 3
+        },
+        {
+            "seatNumber": 2
+        },
+        {
+            "seatNumber": 4
+        },
+        {
+            "seatNumber": 1
+        },
+        {
+            "seatNumber": 8
+        }
+    ],
+    "statusCode": "0",
+    "statusMessage": "Success"
+}
